@@ -1,0 +1,32 @@
+    h1 {
+        font-family: serif;
+        text-align: center;
+        color: #377ba8;
+        background: lightgrey;
+    }
+    form {
+        width: 350px;
+        padding:16px;
+        border-radius: 10px;
+        margin:auto;
+        background-color: #CCC;
+    }
+
+    form input[type="text"], form input[type="pasword"], form input
+    [type="submit"]{
+        width: 250px;
+    }
+    form input{
+        margin-top: 15px;
+    }
+
+    form input[type="submit"] {
+        text-align: center;
+        font-weight: bold;
+        justify-content: center;
+        display: block;
+        margin:auto;
+        margin-top: 20px;
+
+    }
+
